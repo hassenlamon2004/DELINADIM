@@ -19,7 +19,7 @@ import CartWidget from './components/CartWidget';
  * @param {string} props.size - Clases de Tailwind para el tamaño (por defecto 'w-6 h-6').
  */
 const WhatsappIcon = ({ size = 'w-6 h-6' }) => (
-    <img src="/src/assets/icono-whatsapp.svg" alt="WhatsApp" className={size} />
+    <img src="/assets/icono-whatsapp.svg" alt="WhatsApp" className={size} />
 );
 
 /**
@@ -28,7 +28,7 @@ const WhatsappIcon = ({ size = 'w-6 h-6' }) => (
  * @param {string} props.size - Clases de Tailwind para el tamaño (por defecto 'w-6 h-6').
  */
 const RappiIcon = ({ size = 'w-6 h-6' }) => (
-    <img src="/src/assets/icono-rappi.webp" alt="Rappi" className={size} />
+    <img src="/assets/icono-rappi.webp" alt="Rappi" className={size} />
 );
 // -----------------------------------------------------------------------------------
 

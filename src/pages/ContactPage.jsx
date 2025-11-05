@@ -8,7 +8,7 @@ import React from 'react';
  * @param {string} props.size - Clases de Tailwind para el tamaño (por defecto 'w-12 h-12').
  */
 const WhatsappIcon = ({ size = 'w-12 h-12' }) => (
-    <img src="/src/assets/icono-whatsapp.svg" alt="WhatsApp" className={size} />
+    <img src="/assets/icono-whatsapp.svg" alt="WhatsApp" className={size} />
 );
 
 /**
@@ -18,7 +18,7 @@ const WhatsappIcon = ({ size = 'w-12 h-12' }) => (
  * @param {string} props.size - Clases de Tailwind para el tamaño (por defecto 'w-12 h-12').
  */
 const RappiIcon = ({ size = 'w-12 h-12' }) => (
-    <img src="/src/assets/icono-rappi.png" alt="Rappi" className={size} />
+    <img src="/icono-rappi.webp" alt="Rappi" className={size} />
 );
 
 /**
@@ -27,7 +27,7 @@ const RappiIcon = ({ size = 'w-12 h-12' }) => (
  * @param {string} props.size - Clases de Tailwind para el tamaño (por defecto 'w-12 h-12').
  */
 const InstagramIcon = ({ size = 'w-12 h-12' }) => (
-    <img src="/src/assets/icono-instagram.svg" alt="Instagram" className={size} />
+    <img src="/assets/icono-instagram.svg" alt="Instagram" className={size} />
 );
 // ----------------------------------------------------------------------
 

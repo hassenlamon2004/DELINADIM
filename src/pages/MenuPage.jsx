@@ -14,14 +14,14 @@ const allMenuItems = [
     description: 'Garbanzos molidos con tahini, limón y aceite de oliva virgen.',
     price: '25.000', 
     color: '800000',
-    imageURL: '/src/assets/hummus.webp' }, // Vino
+    imageURL: '/assets/hummus.webp' }, // Vino
     { id: 2,
      category: 'Entradas Frías',
      title: 'Labneh de la Casa',
       description: 'Yogurt colado espeso, servido con especias Zatar.', 
       price: '28.000', 
       color: '1A1A1A', 
-      imageURL: '/src/assets/labneh.webp' }, // Negro
+      imageURL: '/assets/labneh.webp' }, // Negro
 
     // Platos Fuertes
     { id: 3,
@@ -30,21 +30,21 @@ const allMenuItems = [
      description: 'Carne y burgol horneado en capas con especias y piñones.',
      price: '45.000',
      color: 'D4AF37' ,
-     imageURL: '/src/assets/kibbeh.webp' }, // Dorado Oscuro
+     imageURL: '/assets/kibbeh.webp' }, // Dorado Oscuro
     { id: 4,
      category: 'Platos Fuertes',
      title: 'Plato Mixto',
      description: 'incluye kibbeh, hojas de parra y repollo rellenas, tabule, arroz con almendras, hummus, kibbeh y siempre acompañado de pan árabe.',
      price: '38.000',
      color: 'D4AF37' ,
-     imageURL: '/src/assets/platoMixto.webp' }, // Dorado Oscuro
+     imageURL: '/assets/platoMixto.webp' }, // Dorado Oscuro
     { id: 5, 
     category: 'Platos Fuertes',
     title: 'Falafel', 
     description: 'Bolitas fritas hechas de una pasta de garbanzos o habas triturados, hierbas frescas y especias.',
     price: '55.000', 
     color: '1A1A1A' ,
-    imageURL: '/src/assets/falafel.webp' }, // Negro
+    imageURL: '/assets/falafel.webp' }, // Negro
 
     // Postres
     { id: 6,
@@ -53,14 +53,14 @@ const allMenuItems = [
      description: 'Masa filo, nueces y jarabe de miel.',
     price: '18.000', 
     color: '800000' ,
-        imageURL: '/src/assets/baklava.webp' }, // Vino
+        imageURL: '/assets/baklava.webp' }, // Vino
     { id: 7,
     category: 'Postres',
     title: 'Mamoul',
     description: 'Galleta de sémola rellena de dátiles o nueces, espolvoreada con azúcar.',
     price: '15.000',
     color: 'D4AF37', 
-    imageURL: '/src/assets/mamoul.webp' }, // Dorado Oscuro
+    imageURL: '/assets/mamoul.webp' }, // Dorado Oscuro
 ];
 // ----------------------------------------------------
 

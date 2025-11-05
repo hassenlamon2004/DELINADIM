@@ -9,9 +9,9 @@ import { Link } from 'react-router-dom';
  * Estos datos simulan la información que normalmente vendría de una base de datos.
  */
 const featuredItems = [
-    { id: 1, category: 'Entradas Frías', title: 'Hummus Clásico', description: 'Garbanzos molidos con tahini, limón y aceite de oliva virgen. Cremoso y refrescante.', price: '25.000', color: '800000', imageURL: '/src/assets/hummus.webp' },
-    { id: 4, category: 'Platos Fuertes', title: 'Plato Mixto', description: '¡La mejor opción! Incluye kibbeh, hojas de parra, tabule, arroz, hummus y pan árabe.', price: '38.000', color: 'D4AF37', imageURL: '/src/assets/platoMixto.webp' },
-    { id: 6, category: 'Postres', title: 'Baklava Clásico', description: 'Crujiente masa filo, nueces y jarabe de miel aromático.', price: '18.000', color: '800000', imageURL: '/src/assets/baklava.webp' },
+    { id: 1, category: 'Entradas Frías', title: 'Hummus Clásico', description: 'Garbanzos molidos con tahini, limón y aceite de oliva virgen. Cremoso y refrescante.', price: '25.000', color: '800000', imageURL: '/assets/hummus.webp' },
+    { id: 4, category: 'Platos Fuertes', title: 'Plato Mixto', description: '¡La mejor opción! Incluye kibbeh, hojas de parra, tabule, arroz, hummus y pan árabe.', price: '38.000', color: 'D4AF37', imageURL: '/assets/platoMixto.webp' },
+    { id: 6, category: 'Postres', title: 'Baklava Clásico', description: 'Crujiente masa filo, nueces y jarabe de miel aromático.', price: '18.000', color: '800000', imageURL: '/assets/baklava.webp' },
 ];
 // ----------------------------------------------------
 
