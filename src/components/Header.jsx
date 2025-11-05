@@ -35,7 +35,7 @@ const Header = () => {
           >
             
             <img 
-                src="/src/assets/logo-delinadim.webp" // Ruta al logo de la marca
+                src="/assets/logo-delinadim.webp" // Ruta al logo de la marca
                 alt="Logo Delinadim" 
                 className="h-10 sm:h-12 mr-2" 
             />
