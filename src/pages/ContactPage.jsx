@@ -18,7 +18,7 @@ const WhatsappIcon = ({ size = 'w-12 h-12' }) => (
  * @param {string} props.size - Clases de Tailwind para el tamaño (por defecto 'w-12 h-12').
  */
 const RappiIcon = ({ size = 'w-12 h-12' }) => (
-    <img src="/icono-rappi.webp" alt="Rappi" className={size} />
+    <img src="/assets/icono-rappi.webp" alt="Rappi" className={size} />
 );
 
 /**
