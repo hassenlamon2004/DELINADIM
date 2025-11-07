@@ -48,7 +48,7 @@ const ContactPage = () => {
             IconComponent: WhatsappIcon, 
             color: 'bg-neutral-950 hover:bg-green-600', // Clases de color de Tailwind para WhatsApp
             // 🔑 Número de ejemplo consistente con el CartModal
-            url: 'https://wa.me/+573106656644?text=Hola%20quiero%20hacer%20un%20pedido%20de%20Delinadim' 
+            url: 'https://wa.me/+573102078916?text=Hola%20quiero%20hacer%20un%20pedido%20de%20Delinadim' 
         },
         { 
             name: 'Pedir por Rappi (Entrega Rápida)', 
