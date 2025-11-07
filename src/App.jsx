@@ -115,7 +115,7 @@ function App() {
             
             {/* Botón de WhatsApp Flotante */}
             <a 
-                href="https://wa.me/+573106656644?text=Hola%20quiero%20hacer%20un%20pedido%20de%20Delinadim" 
+                href="https://wa.me/+573102078916?text=Hola%20quiero%20hacer%20un%20pedido%20de%20Delinadim" 
                 className="fixed bottom-6 right-6 bg-neutral-950 hover:bg-green-500 text-white p-4 rounded-full shadow-2xl z-50 transition duration-300 flex items-center justify-center"
                 target="_blank"
                 rel="noopener noreferrer"
