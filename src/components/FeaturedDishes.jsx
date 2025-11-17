@@ -17,7 +17,7 @@ const featuredItems = [
       "Una unidad de kibbeh frito acompañado de una Coca-Cola Personal.",
     price: "9.900",
     color: "",
-    imageURL: "/public/assets/combo-Kibbeh-frito.webp",
+    imageURL: "/assets/combo-Kibbeh-frito.webp",
   },
   {
     id: 10,
@@ -27,7 +27,7 @@ const featuredItems = [
       "Crujientes trozos de pan árabe horneados con especias, acompañados de una porción pequeña de tahini(8 OZ).",
     price: "15.000",
     color: "1A1A1A",
-    imageURL: "/public/assets/combo-tahini.webp",
+    imageURL: "/assets/combo-tahini.webp",
   },
   {
     id: 11,
@@ -36,7 +36,7 @@ const featuredItems = [
     description: "Plato Mixto acompañado de una Coca-Cola Personal.",
     price: "24.900",
     color: "",
-    imageURL: "/public/assets/combo-mixto.webp",
+    imageURL: "/assets/combo-mixto.webp",
   },
 ];
 // ----------------------------------------------------
